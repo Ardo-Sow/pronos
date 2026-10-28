@@ -1,0 +1,6 @@
+{
+  "name": "SENAM AGRO - Jus Naturels, Poissons Frais & Fruits",
+  "description": "Site vitrine & boutique officielle de SENAM AGRO au Sénégal : jus naturels de Bouye, Bissap, Corossol, arrivage quotidien de poissons frais du jour au kilo et fruits locaux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
