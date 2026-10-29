@@ -1,0 +1,2 @@
+Déposez ici vos photos de produits.
+Nom du fichier = identifiant du produit (voir PHOTOS_A_AJOUTER.md à la racine). Exemple : fruit-banane.jpg
