@@ -782,7 +782,7 @@ export const PRODUCTS: Product[] = [
     accentColor: '#0F766E',
     bgGradient: 'from-teal-50 to-sky-100',
     imageAlt: 'Carton Wass Tilapia poisson SENAM AGRO',
-  }
+  },
 
   // Fruits, viandes, légumes, pépinière, viandes marinées (issus des PDF)
   ...CATALOG_PRODUCTS,
